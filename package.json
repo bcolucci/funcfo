@@ -1,0 +1,16 @@
+{
+  "name": "funcfo",
+  "version": "0.1.0",
+  "author": "Brice Colucci <brice.colucci@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "shortid": "^2.2.6"
+  },
+  "devDependencies": {
+    "mocha": "^3.0.2",
+    "sinon": "^1.17.5"
+  }
+}
